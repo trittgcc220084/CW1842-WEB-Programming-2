@@ -27,9 +27,9 @@ If MongoDB is not installed, install and start the service first.
 **How to Run**
 
 **Step 1 – Backend**
-Bashcd server
-npm install
-node server.js
+Bashcd server ,
+npm install ,
+node server.js ,
 On success you should see:
 textConnected to MongoDB
 Server is running at http://localhost:8000
