@@ -29,7 +29,7 @@ If MongoDB is not installed, install and start the service first.
 **Step 1 – Backend**
 Bashcd server ,
 npm install ,
-node server.js ,
+node server.js.
 On success you should see:
 textConnected to MongoDB
 Server is running at http://localhost:8000
@@ -37,9 +37,9 @@ Server is running at http://localhost:8000
 
 **Step 2 – Frontend**
 Open a new terminal:
-Bashcd front-end
-npm install
-npm run serve
+Bashcd front-end, 
+npm install, 
+npm run serve .
 Open the browser at the address shown by Vue CLI (usually http://localhost:8080).
 
 **Important Notes**
